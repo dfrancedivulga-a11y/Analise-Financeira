@@ -10,7 +10,16 @@ Eu conheço profundamente as regras de negócio de finanças e DRE, mas estou in
 Procuro desenvolvedores, estudantes e entusiastas que queiram colaborar construindo o sistema do zero, evoluindo a arquitetura e aplicando boas práticas em Django.
 
 ---
+## 🎛️ Arquitetura do Painel Central (Dashboard)
 
+A tela inicial do software será o ponto central de navegação da empresa, dividida nos seguintes grandes macro-módulos:
+
+1. 📦 **ESTOQUE:** Cadastro de produtos, controle de entradas/saídas, relatórios e inventário.
+2. 🛒 **VENDAS:** Frente de caixa (PDV), emissão de pedidos e baixa automática de estoque.
+3. 👥 **CADASTROS:** Gerenciamento de Clientes, Fornecedores e Usuários do sistema.
+4. 💰 **FINANCEIRO:** Controle de fluxo de caixa (contas a pagar/receber) e geração automatizada da DRE.
+
+---
 ## 🧱 Escopo Inicial do Sistema (Módulos Desejados)
 
 Para o MVP (Mínimo Produto Viável), utilizaremos o **Django Admin** para acelerar o desenvolvimento dos cadastros base:
