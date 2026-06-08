@@ -44,6 +44,11 @@ Para o desenvolvimento do MVP, dividimos o sistema em tarefas modulares. Você p
 
 ---
 
+### 🌐 Ambiente de Desenvolvimento (Atenção Colaboradores)
+Para facilitar os testes das regras de negócio e a validação visual das telas, a prioridade inicial do projeto é a configuração de um ambiente de desenvolvimento na nuvem (**GitHub Codespaces / Gitpod**). Se você sabe como estruturar os arquivos `.devcontainer` para Django, sua ajuda será muito bem-vinda!
+
+---
+
 ## 🤝 Como Contribuir
 1. Faça um **Fork** do projeto.
 2. Acesse a aba de **Issues**, escolha uma das tarefas abertas e comente que deseja trabalhar nela.
